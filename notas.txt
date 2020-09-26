@@ -1,0 +1,5 @@
+--NEOALPACA ROGUELIKE--
+
+Assets necesarios:
+
+Background de cada pantalla: esto va en una imagen sola. Sería una sola imagen con 
